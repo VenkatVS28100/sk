@@ -144,9 +144,11 @@ future to catch up
                                                   
    4. PERCEPTION AND VALUES
 •	AIM: 
+
 	Perception and values mean focusing on cultivating an insightful understanding of the world and defining a strong set of principles that guide behavior.
 
 •	Definition: 
+
 Perception encompasses awareness of surroundings, open-mindedness to various viewpoints, and critical thinking to analyze information, while values are core beliefs that guide decisions and actions, ensuring consistency with ethical standards and fostering trust and character.
 
 •	Procedure: 
@@ -160,7 +162,9 @@ Explanation: Perception shapes values, and values influence how situations are p
 
 •	CONCLUSION: My perception helped me recognize the emotional undercurrents in the team conflict, and my values 	guided me toward advocating for open, respectful communication.
 
+
 TASK 4: 
+
 1. Identify a Real-Life Situation
 Question: Describe a recent situation where you had to make a decision, resolve a conflict, 
 or interact with others. Include the context and key people involved.
@@ -169,6 +173,7 @@ One of my colleagues, Emma, insisted on following her approach, while the rest o
 team had different ideas. I felt that her perspective was valid, but she wasn’t considering 
 other potential strategies. This led to tension in the group as no one wanted to disagree 
 directly with her."
+
 2. Observe and Reflect on Perception
 Question: What did you observe during this situation? How did you perceive the actions, 
 emotions, and behaviours of the people involved?
@@ -177,6 +182,7 @@ enthusiasm. However, her tone became defensive when others began to raise questi
 The rest of the team seemed hesitant to challenge her ideas, with some avoiding eye contact 
 or offering only minimal feedback. I perceived this hesitation as discomfort, possibly due 
 to Emma’s strong stance."
+
 3. Analyze Your Perception
 Question: Do you think your perception was influenced by any biases or past experiences? 
 How could someone else perceive the same situation differently?
@@ -185,6 +191,7 @@ experience where I had dealt with a similarly assertive person who dismissed oth
 Because of that, I may have assumed Emma wasn’t open to feedback when she might have 
 just been passionate about her approach. Another team member could have perceived her 
 assertiveness as leadership rather than dominance."
+
 4. Connect to Your Values
 Question: What values are important to you in this context? How do they influence your 
 interpretation and response to the situation?
@@ -192,6 +199,7 @@ Answer: "I value open-mindedness and collaboration. In this context, it’s impo
 that everyone feels comfortable sharing their ideas and that all perspectives are considered. 
 I also value respect, which means handling disagreements constructively without making 
 anyone feel marginalized."
+
 5. Take Action Based on Perception and Values
 Question: Based on your perception and values, what actions can you take to improve the 
 situation? How will these actions align with your values?
@@ -200,6 +208,7 @@ Emma’s idea had merit, we could also explore alternative strategies. I emphasi
 combining the best elements from different approaches could lead to a more comprehensive 
 plan. This aligned with my values of collaboration and respect, as it allowed space for 
 diverse input without dismissing anyone's ideas."
+
 6. Reflect on the Outcome
 Question: What was the result of your actions? Did the outcome reflect your values? What 
 did you learn from the experience?
